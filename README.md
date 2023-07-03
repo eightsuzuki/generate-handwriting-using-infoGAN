@@ -1,1 +1,1 @@
-# generate-handwriting-using-infoGAN-
+# generate-handwriting-using-infoGAN
