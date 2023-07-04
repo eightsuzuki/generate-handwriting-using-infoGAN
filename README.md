@@ -1,5 +1,3 @@
-cut.py and together.py README
-
 ## Introduction
 The `cut.py` and `together.py` scripts are designed to help you create collages from input images. The `cut.py` script allows you to cut an input image into smaller cropped images, while the `together.py` script combines those cropped images into a single collage image. These scripts utilize the Python Imaging Library (PIL) to handle image manipulation and processing.
 
