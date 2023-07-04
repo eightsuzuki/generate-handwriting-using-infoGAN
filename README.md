@@ -6,7 +6,7 @@ cut-and-together is a collection of Python scripts that allow you to create coll
 ## Requirements
 Python 3.x
 PIL (Python Imaging Library)
-## sage
+## Usage
 1. Cutting the Input Image
 Make sure you have the required libraries installed. You can install PIL using pip:
 
