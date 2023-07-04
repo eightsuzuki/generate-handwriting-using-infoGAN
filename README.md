@@ -12,9 +12,8 @@ Make sure you have the required libraries installed. You can install PIL using p
 
 ``` codecopy
 pip install pillow
-Place the input image you want to cut in the same directory as the cut.py script. Make sure the input image is in a supported format, such as PNG or JPEG.
 ```
-
+Place the input image you want to cut in the same directory as the cut.py script. Make sure the input image is in a supported format, such as PNG or JPEG.
 Open the cut.py script in a text editor or IDE.
 
 Modify the following variables in the script according to your requirements:
