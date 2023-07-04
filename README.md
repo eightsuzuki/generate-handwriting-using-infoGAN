@@ -10,9 +10,10 @@ PIL (Python Imaging Library)
 1. Cutting the Input Image
 Make sure you have the required libraries installed. You can install PIL using pip:
 
-Copy code
+``` codecopy
 pip install pillow
 Place the input image you want to cut in the same directory as the cut.py script. Make sure the input image is in a supported format, such as PNG or JPEG.
+```
 
 Open the cut.py script in a text editor or IDE.
 
@@ -26,8 +27,10 @@ Save the modified script.
 
 Run the script using Python:
 
-Copy code
+```　codecopy
 python cut.py
+```
+
 The script will cut the input image into smaller cropped images based on the specified width and height. The cropped images will be saved in the specified output directory. Each cropped image will be named in the format row-column.png, indicating its position in the original image.
 
 2. Creating the Collage
